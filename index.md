@@ -1,0 +1,7 @@
+  
+<html>
+<head></head>
+<body>
+  <button href="./index.php">ve a la web de segurosDeCoche</button>
+</body>
+</html>
