@@ -2,6 +2,6 @@
 <html>
 <head></head>
 <body>
-  <button href="./index.php">ve a la web de segurosDeCoche</button>
+  <button href="https://segurosdecoche.github.io//index.php">web de segurosDeCoche</button>
 </body>
 </html>
